@@ -13,6 +13,6 @@
     "@dagonmetric/ng-translit": "^14.2.4",
     "rxjs": "^6.6.0",
     "zone.js": "^0.10.3",
-    "typescript": "^3.9.6"
+    "typescript": "^3.9.7"
   }
 }
