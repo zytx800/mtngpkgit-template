@@ -11,7 +11,7 @@
     "@myanmartools/ng-zawgyi-detector": "^1.2.3",
     "@myanmartools/zawgyi-unicode-translit-rules": "^1.1.3",
     "@dagonmetric/ng-translit": "^14.2.4",
-    "rxjs": "^6.6.2",
+    "rxjs": "^6.6.3",
     "zone.js": "^0.11.1",
     "typescript": "^4.0.2"
   }
