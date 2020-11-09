@@ -6,8 +6,8 @@
     "test": "echo \"Just testing!\""
   },
   "dependencies": {
-    "@angular/common": "^10.2.2",
-    "@angular/core": "^10.2.2",
+    "@angular/common": "^10.2.3",
+    "@angular/core": "^10.2.3",
     "@myanmartools/ng-zawgyi-detector": "^1.2.5",
     "@myanmartools/zawgyi-unicode-translit-rules": "^1.1.5",
     "@dagonmetric/ng-translit": "^14.3.1",
